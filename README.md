@@ -10,4 +10,4 @@
 1. Ojok Simon Peter <simonpeter.oj@gmail.com> | <afandeojok@afandeojok.tech>
 2. Riak Mark <riakmark02@gmail.com>
 3. Kakooza Tonny <kakoozaton@gmail.com>
-4. Elsa Kayigwa <elsakayigwa@gmail.com>
+4. Elsa Nankya <elsakayigwa@gmail.com>
