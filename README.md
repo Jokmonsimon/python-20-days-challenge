@@ -1,4 +1,4 @@
-# Python 20 Days Challenge
+# Python - 20 Days Challenge
 
 # Descriptions
 
