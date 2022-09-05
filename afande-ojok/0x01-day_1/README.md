@@ -23,3 +23,7 @@ While inside project directory:
 1. Make file execuatble by running `chmod u+x 1-run_inline`
 2. Run in terminal `export PYCODE='print(f"By 2032, I will be: {2032 - 1993} years old")'`
 3. Run the Shell script `./1-run_inline`
+
+## Hello, print
+
+3. Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. Use the function `print`
