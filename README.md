@@ -10,9 +10,9 @@
 
 # Authors
 
-1. Ojok Simon Peter <simonpeter.oj@gmail.com> | <afandeojok@afandeojok.tech>
-2. Riak Mark <riakmark02@gmail.com>
-3. Kakooza Tonny <kakoozaton@gmail.com>
+1. Ojok Simon Peter | Commitment: 3 Hours Daily | <simonpeter.oj@gmail.com> | <afandeojok@afandeojok.tech>
+2. Riak Mark | Commitment: 2 Hours Daily | <riakmark02@gmail.com>
+3. Kakooza Tonny | Commitment: 1 Hour Daily | <kakoozaton@gmail.com>
 4. Elsa Nankya <elsakayigwa@gmail.com>
 5. Adima Gilbert <gilbertadima742@gmail.com>
 6. Lincoln Oscar <oscarlincoln520@gmail.com>
