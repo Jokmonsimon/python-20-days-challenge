@@ -11,3 +11,6 @@
 2. Riak Mark <riakmark02@gmail.com>
 3. Kakooza Tonny <kakoozaton@gmail.com>
 4. Elsa Nankya <elsakayigwa@gmail.com>
+5. Adima Gilbert <gilbertadima742@gmail.com>
+6. Lincoln Oscar <oscarlincoln520@gmail.com>
+7. Lawrence Ssettuba <nanostarleelawrence@gmail.com>
