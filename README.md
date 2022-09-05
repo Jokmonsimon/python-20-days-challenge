@@ -2,7 +2,10 @@
 
 # Descriptions
 
-- Make sure you set a specific hour(s) you will be coding Python and pushung without missing a single day for 20 consecative Days.
+- Make sure you set a specific hour(s) you will be coding Python everyday.
+- You must push your code to GitHub everyday for 20 consecative Days.
+- No copy and paste.
+- Make sure you understand your code (what each line of code is doing)
 - Discussions will be held every weekend.
 
 # Authors
