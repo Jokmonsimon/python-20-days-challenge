@@ -27,3 +27,15 @@ While inside project directory:
 ## Hello, print
 
 3. Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. Use the function `print`
+
+## Print integer
+
+4. Complete this [source code](https://github.com/Jokmonsimon/source-codes/blob/main/0x01.py) in order to print the integer stored in the variable `year`, followed by `was the year Yearn AI was founded`, followed by a new line.
+
+- You can find the source code [here](https://github.com/Jokmonsimon/source-codes/blob/main/0x01.py)
+- The output of the script should be:
+- the `year`, followed by `was the year Yearn AI was founded`,
+- followed by a new line
+- You are not allowed to cast the variable `year` into a string
+- Your code must be 3 lines long
+- You have to use f-strings tips
