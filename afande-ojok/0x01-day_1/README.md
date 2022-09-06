@@ -38,4 +38,4 @@ While inside project directory:
 - followed by a new line
 - You are not allowed to cast the variable `year` into a string
 - Your code must be 3 lines long
-- You have to use f-strings tips
+- You have to use f-strings [tips](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
