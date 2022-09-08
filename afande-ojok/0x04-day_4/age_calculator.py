@@ -4,7 +4,7 @@
 # y: year of birth 
 # m: month of birth 
 # d: date of birth
-def ageCalculator(y, m, d):
+def age_calculator(y, m, d):
     # Import the datetime module in Python inside the function
     import datetime
     # Take today’s date by using the datetime.now() method of the datetime module
@@ -14,4 +14,4 @@ def ageCalculator(y, m, d):
     # Subtract dob from today's date and divide by 365.25
     age = int((today - dob).days / 365.25)
     print("Wow! You are {} years old".format(age))
-ageCalculator(1993, 6, 3)
+age_calculator(1993, 6, 3)
