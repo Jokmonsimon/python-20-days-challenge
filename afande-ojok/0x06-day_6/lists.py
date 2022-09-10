@@ -7,3 +7,10 @@ print(months[-1])
 print(months[:6])
 print(months[6:])
 print(months[8:-1])
+
+for i in months:
+    print(i)
+    print(i[0])
+    print(i[:6])
+    print(i[2:])
+    print(i[0:3])
