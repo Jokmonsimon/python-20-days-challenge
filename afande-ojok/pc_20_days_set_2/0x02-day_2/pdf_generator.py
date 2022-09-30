@@ -11,18 +11,32 @@
 from fpdf import FPDF
 
 class PDF(FPDF):
-    pass # Nothing happens when it is executed
+    # Create a line method to draw a line in the middle of the page
+    def line(self):
+        # Set line width to 0.0 mm
+        self.set_line_width(0.0) 
 
-    # Create an object of the PDF class
-pdf = PDF()
-    # Set page orientation
-    # Set unit measurement
-    # Set page format
+        # Draw a simple line with four arguments: line(x1, y1, x2, y2)
+        self.line(0, pdf_height/2, 210, pdf_height/2)
+
+# Create an object of the PDF class with Defualt A4 Format
+pdf = PDF() 
+
+# Set page orientation
+# Set unit measurement
+# Set page format
 pdf = PDF(orientation='P', unit='mm', format='A4')
 
     # Add Page and save the output
-pdf.add_page()
-pdf.output('yearn_ai.pdf', 'F')
+pdf.add_page() # add.page function adds a new page to the document.
+pdf.output('python-notes.pdf', 'F')
 
+# PyFPDF is built on the coordinate space (x,y)
+# The default value of orientation is ‘A4’
+# The size of A4 is: w:210 mm and h:297 mm
+
+# Assign size of A4 dimensions to variables for later use
+pdf_width = 210
+pdf_height = 297
 
 
