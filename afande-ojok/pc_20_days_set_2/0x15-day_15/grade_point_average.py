@@ -15,7 +15,7 @@ while not done:
     if grade == '': # Empty line was entered
         done = True
     elif grade not in points: # Unrecognized grade enetered
-        print("Unknown grade grade-point average'{0}' being ignored".format(grade))
+        print("Unknown grade-point average '{0}' being ignored".format(grade))
     else:
         num_courses += 1
         total_points += points[grade]
