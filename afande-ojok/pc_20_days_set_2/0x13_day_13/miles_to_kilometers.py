@@ -13,3 +13,9 @@ print("The distance in kilometers is " + str(my_trip_miles))
 # 4) Calculate the round-trip in kilometers by doubling the result,
 #    and fill in the blank to print the result
 print("The round-trip in kilometers is " + str(my_trip_miles * 2))
+
+def sum(x, y):
+	return (x+y)
+print(sum(sum(1, 2), sum(3, 4)))
+
+print((10>=5*2) and (10 <= 5*2))
