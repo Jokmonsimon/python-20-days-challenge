@@ -1,4 +1,5 @@
-# Print Prime Factors
+# The prime_factors  function print all the prime factors of a number. 
+# A prime factor is a number that is prime and divides another without a remainder.
 
 def prime_factors(number):
     # Start with two, which is the first prime
