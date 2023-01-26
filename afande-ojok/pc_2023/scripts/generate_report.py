@@ -11,4 +11,7 @@ def read_employees(csv_file_location):
 	employee_list = []
 	for dat in employee_file:
 		employee_list.append(data)
-	return employee_list
+		return employee_list
+
+	employee_list = read_employees('<file_location')
+	print(employee_list)
