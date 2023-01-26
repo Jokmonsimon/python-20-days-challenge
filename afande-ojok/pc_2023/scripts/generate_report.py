@@ -2,7 +2,7 @@
 
 # Convert employee to dictionary
 
-imort csv
+import csv
 
 def read_employees(csv_file_location):
 	csv.register_dialect('empDialect', skipinitialspace=True, strict=True)
